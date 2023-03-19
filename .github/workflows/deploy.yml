@@ -25,7 +25,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Build the website using Pandoc
+      # Build the website using pandoc
+      - name: Build the index page
         uses: docker://pandoc/core:2.19
         with:
           args: >-
@@ -34,6 +35,14 @@ jobs:
             --lua-filter=bold_me_in_bib.lua
             --output=index.html
             index.md
+      # A temporary solution
+      - name: Build the reading list
+        uses: docker://pandoc/core:2.19
+        with:
+          args: >-
+            --template=templates/note.html
+            --output=readings.html
+            notes/readings.md
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
