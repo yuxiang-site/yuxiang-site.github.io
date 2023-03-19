@@ -10,4 +10,4 @@
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
 
 ## Misc
-- [Useful resources for a CS PhD](https://ganler.notion.site/ganler/Resources-f16c3b29577049899034dc2c188912e1)
+- [Useful resources](https://ganler.notion.site/ganler/Resources-f16c3b29577049899034dc2c188912e1)
