@@ -32,7 +32,7 @@ I am interested in neurosymbolic program repair/synthesis and Large Language Mod
 
 ## Talks
 
-- Apr 2023, Uber Program Analysis group: Combining Large Language Models with Symbolic Methods.
+- Apr 2023, Uber Program Analysis Group: Combining Large Language Models with Symbolic Methods.
 
 ## Publications
 
