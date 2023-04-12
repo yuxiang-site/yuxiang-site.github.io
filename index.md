@@ -26,9 +26,13 @@ I am interested in neurosymbolic program repair/synthesis and Large Language Mod
 
 ## News
 
-- Dec, 2022: One paper on program repair using LLMs accepted by [ICSE'23](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview)!
-- Feb, 2022: I feel excited to join UIUC's iSE group!!
-- Dec, 2021: Our paper on fuzzing tensor compilers is accepted by [OOPSLA'22](https://2022.splashcon.org/track/splash-2022-oopsla)!
+- Dec 2022: One paper on program repair using LLMs accepted by [ICSE'23](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview)!
+- Feb 2022: I feel excited to join UIUC's iSE group!!
+- Dec 2021: Our paper on fuzzing tensor compilers is accepted by [OOPSLA'22](https://2022.splashcon.org/track/splash-2022-oopsla)!
+
+## Talks
+
+- Apr 2023, Uber Program Analysis group: Combining Large Language Models with Symbolic Methods.
 
 ## Publications
 
