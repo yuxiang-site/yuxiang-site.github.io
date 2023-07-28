@@ -34,6 +34,7 @@ jobs:
             --citeproc
             --lua-filter=bold_me_in_bib.lua
             --output=index.html
+            --csl=citation_order.csl
             index.md
       # A temporary solution
       - name: Build the reading list
