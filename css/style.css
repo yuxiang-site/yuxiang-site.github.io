@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+
 html {
   line-height: 1.5;
-  font-family: 'Georgia Local', serif;
+  font-family: 'Gelasio', serif;
   font-size: 20px;
   color: 1a1a1a;
   background-color: #fdfdfd;
@@ -202,7 +205,7 @@ ul.task-list {
 }
 
 q {
-  quotes: "“""”""‘""’";
+  quotes: "“" "”" "‘" "’";
 }
 
 .display.math {
@@ -255,38 +258,6 @@ footer {
   text-align: center;
 }
 
-@font-face {
-  font-family: 'Georgia Local';
-  /* normal */
-  src: url('../static/fonts/Georgia.ttf') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Georgia Local';
-  /* italic */
-  src: url('../static/fonts/Georgia Italic.ttf') format('woff');
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Georgia Local';
-  /* bold */
-  src: url('../static/fonts/Georgia Bold.ttf') format('woff');
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Georgia Local';
-  /* bold */
-  src: url('../static/fonts/Georgia Bold Italic.ttf') format('woff');
-  font-weight: bold;
-  font-style: italic;
-}
-
 .author-info {
   display: flex;
   gap: 50px;
@@ -318,7 +289,7 @@ footer {
 #yuxiang {
   font-size: 30pt;
   font-weight: bold;
-  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-family: 'Mukta', sans-serif;
   /* color: rgb(0, 80, 115); */
 }
 
