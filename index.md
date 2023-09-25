@@ -18,6 +18,10 @@ nocite: |
 
 I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering), advised by [Professor Lingming Zhang](https://lingming.cs.illinois.edu). I am interested in machine learning for code generation. Recently, I have been working on improving large language model code generation through symbolic techniques.
 
+## Services
+
+- Web Chair of the [LLM4Code Workshop 2024](https://llm4code.github.io), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
+
 ## News
 
 - Jul 2023: Paper "Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair" is accepted by [FSE'23](https://2023.esec-fse.org)! [[Repo](https://github.com/ise-uiuc/Repilot)] [[Postprint](https://arxiv.org/abs/2309.00608)].
