@@ -18,9 +18,6 @@ nocite: |
 
 I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering), advised by [Professor Lingming Zhang](https://lingming.cs.illinois.edu). I am interested in machine learning for code generation. Recently, I have been working on improving large language model code generation through symbolic techniques.
 
-## Services
-
-- Web Chair of the [LLM4Code Workshop 2024](https://llm4code.github.io), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
 
 ## News
 
@@ -28,6 +25,10 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 - Dec 2022: One paper on program repair using LLMs accepted by [ICSE'23](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview)!
 - Feb 2022: I feel excited to join UIUC's iSE group!!
 - Dec 2021: Our paper on fuzzing tensor compilers is accepted by [OOPSLA'22](https://2022.splashcon.org/track/splash-2022-oopsla)!
+
+## Services
+
+- Web Chair of the [LLM4Code Workshop 2024](https://llm4code.github.io), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
 
 ## Talks
 
