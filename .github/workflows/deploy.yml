@@ -18,7 +18,6 @@ permissions:
   id-token: write
 
 jobs:
-  # Single deploy job since we're just deploying
   deploy:
     environment:
       name: github-pages
@@ -28,7 +27,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Install Pandoc
-        run: sudo apt-get install pandoc
+        run: |
+          wget https://github.com/jgm/pandoc/releases/download/2.19/pandoc-2.19-1-amd64.deb
+          sudo dpkg -i pandoc-2.19-1-amd64.deb
       - name: Build website
         run: make
       # Build the website using pandoc
