@@ -28,7 +28,8 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 
 ## Services
 
-- Web Chair of the [LLM4Code Workshop 2024](https://llm4code.github.io), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
+- Artifact Evaluation Committee: [CCS'23](https://www.sigsac.org/ccs/CCS2023/call-for-artifacts.html).
+- Web Chair of [LLM4Code Workshop 2024](https://llm4code.github.io), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
 
 ## Talks
 
