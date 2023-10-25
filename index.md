@@ -31,6 +31,11 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 ::: {#refs}
 :::
 
+## Awards
+
+- Oct 2023, NSF Student Travel Award ($1800)
+- Oct 2023, ACM SIGSOFT CAPS Award ($400)
+
 ## Services
 
 - Artifact Evaluation Committee: [CCS'23](https://www.sigsac.org/ccs/CCS2023/call-for-artifacts.html).
@@ -40,8 +45,3 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 
 - Oct 2023, Kwai Inc.: Fusing Large Language Models with Completion Engines for Code Generation.
 - Apr 2023, Uber Program Analysis Group: Combining Large Language Models with Symbolic Methods.
-
-## Awards
-
-- Oct 2023, NSF Student Travel Award ($1800)
-- Oct 2023, ACM SIGSOFT CAPS Award ($400)
