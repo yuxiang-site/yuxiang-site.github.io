@@ -44,4 +44,4 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 ## Awards
 
 - Oct 2023, NSF Student Travel Award ($1800)
-- Oc5 2023, ACM SIGSOFT CAPS Award ($400)
+- Oct 2023, ACM SIGSOFT CAPS Award ($400)
