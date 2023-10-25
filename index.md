@@ -26,6 +26,11 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 - Feb 2022: I feel excited to join UIUC's iSE group!!
 - Dec 2021: Our paper on fuzzing tensor compilers is accepted by [OOPSLA'22](https://2022.splashcon.org/track/splash-2022-oopsla)!
 
+## Publications
+
+::: {#refs}
+:::
+
 ## Services
 
 - Artifact Evaluation Committee: [CCS'23](https://www.sigsac.org/ccs/CCS2023/call-for-artifacts.html).
@@ -36,7 +41,7 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 - Oct 2023, Kwai Inc.: Fusing Large Language Models with Completion Engines for Code Generation.
 - Apr 2023, Uber Program Analysis Group: Combining Large Language Models with Symbolic Methods.
 
-## Publications
+## Awards
 
-::: {#refs}
-:::
+- Oct 2023, NSF Student Travel Award ($1800)
+- Oc5 2023, ACM SIGSOFT CAPS Award ($400)
