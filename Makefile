@@ -7,6 +7,7 @@ site-init:
 	mkdir -p site/notes
 	cp -r static site/static
 	cp -r css site/css
+	cp google1a0adb827ad679a9.html site/
 	
 site-index:
 	pandoc \
