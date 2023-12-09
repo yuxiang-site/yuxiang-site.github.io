@@ -21,7 +21,8 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 
 ## News
 
-- Jul 2023: Paper "Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair" is accepted by [FSE'23](https://2023.esec-fse.org)! [[Repo](https://github.com/ise-uiuc/Repilot)] [[Postprint](https://arxiv.org/abs/2309.00608)] [[Slides](./static/documents/Repilot-Talk.pdf)].
+- Dec 2023: Check out our new preprint [🎩 Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120) [[Repo](https://github.com/ise-uiuc/magicoder)]. **🎩Magicoder got 900+ stars ⭐️ within 5 days!!**
+- Jul 2023: Paper "Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair" is accepted by [FSE'23](https://2023.esec-fse.org)! [[Repo](https://github.com/ise-uiuc/Repilot)] [[Postprint](https://arxiv.org/abs/2309.00608)] [[Slides](./static/documents/Repilot-Talk.pdf)]. **Repilot had 100+ stars ⭐️!!**
 - Dec 2022: One paper on program repair using LLMs accepted by [ICSE'23](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview)!
 - Feb 2022: I feel excited to join UIUC's iSE group!!
 - Dec 2021: Our paper on fuzzing tensor compilers is accepted by [OOPSLA'22](https://2022.splashcon.org/track/splash-2022-oopsla)!
