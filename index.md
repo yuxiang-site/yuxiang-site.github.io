@@ -16,7 +16,7 @@ nocite: |
 
 ## About
 
-I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering), advised by [Professor Lingming Zhang](https://lingming.cs.illinois.edu). I am interested in deep learning for code generation, with a recent emphasis on *large language models*. You can find a link to my CV [here](./static/YuxiangWei-CV.pdf).
+I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering), advised by [Professor Lingming Zhang](https://lingming.cs.illinois.edu). I am interested in *large language models for code*. You can find a link to my CV [here](./static/YuxiangWei-CV.pdf).
 
 
 ## News
