@@ -44,5 +44,6 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 
 ## Talks
 
+- Dec 2023, Conference Talk ([FSE'23](https://2023.esec-fse.org)): Fusing Large Language Models with Completion Engines for Automated Program Repair.
 - Oct 2023, Kwai Inc.: Fusing Large Language Models with Completion Engines for Code Generation.
 - Apr 2023, Uber Program Analysis Group: Combining Large Language Models with Symbolic Methods.
