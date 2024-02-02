@@ -21,6 +21,7 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 
 ## News
 
+- Feb 2024: I'm joining [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/) team this summer as a research intern!
 - Dec 2023: Check out our new preprint [🎩 Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120) [[Repo](https://github.com/ise-uiuc/magicoder)]. **🎩Magicoder got 1500+ stars ⭐️ on GitHub!!**
 - Jul 2023: Paper "Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair" is accepted by [FSE'23](https://2023.esec-fse.org)! [[Repo](https://github.com/ise-uiuc/Repilot)] [[Postprint](https://arxiv.org/abs/2309.00608)] [[Slides](./static/documents/Repilot-Talk.pdf)]. **Repilot got 100+ stars ⭐️!!**
 
@@ -47,7 +48,7 @@ I am a 2nd year CS PhD student at UIUC 👉 [PL/FM/SE](https://cs.illinois.edu/r
 
 ## Talks
 
-- Jan 2024, Snowflake AI/ML Team: Magicoder: Source Code Is All You Need [[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)].
+- Jan 2024, [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/): Magicoder: Source Code Is All You Need [[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)].
 - Dec 2023, Conference Talk ([FSE'23](https://2023.esec-fse.org)): Fusing Large Language Models with Completion Engines for Automated Program Repair.
 - Oct 2023, Kwai Inc.: Fusing Large Language Models with Completion Engines for Code Generation.
 - Apr 2023, Uber Program Analysis Group: Combining Large Language Models with Symbolic Methods.
