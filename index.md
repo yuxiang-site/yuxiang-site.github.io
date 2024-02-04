@@ -22,7 +22,7 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 ## News
 
 - Feb 2024: I'm joining [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/) team this summer as a research intern!
-- Dec 2023: Check out our new preprint [🎩 Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120) [[Repo](https://github.com/ise-uiuc/magicoder)]. **🎩Magicoder got 1500+ stars ⭐️ on GitHub!!**
+- Dec 2023: Check out our new preprint [🎩 Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120) [[Repo](https://github.com/ise-uiuc/magicoder)][[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)]. **🎩Magicoder got 1700+ stars ⭐️ on GitHub!!**
 - Jul 2023: Paper "Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair" is accepted by [FSE'23](https://2023.esec-fse.org)! [[Repo](https://github.com/ise-uiuc/Repilot)] [[Postprint](https://arxiv.org/abs/2309.00608)] [[Slides](./static/documents/Repilot-Talk.pdf)]. **Repilot got 100+ stars ⭐️!!**
 
 <!--
