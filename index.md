@@ -46,9 +46,8 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 - Artifact Evaluation Committee: [CCS'23](https://www.sigsac.org/ccs/CCS2023/call-for-artifacts.html), [PLDI'24](https://pldi24.sigplan.org).
 - Web Chair of [LLM4Code Workshop 2024](https://llm4code.github.io), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
 
-## Talks
+## Invited Talks
 
 - Jan 2024, [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/): Magicoder: Source Code Is All You Need [[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)].
-- Dec 2023, Conference Talk ([FSE'23](https://2023.esec-fse.org)): Fusing Large Language Models with Completion Engines for Automated Program Repair.
 - Oct 2023, Kwai Inc.: Fusing Large Language Models with Completion Engines for Code Generation.
 - Apr 2023, Uber Program Analysis Group: Combining Large Language Models with Symbolic Methods.
