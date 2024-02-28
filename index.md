@@ -8,7 +8,8 @@ email_personal: yuxiang630.wei@gmail.com
 github_id: UniverseFly
 github_url: https://github.com/UniverseFly
 twitter_id: YuxiangWei9
-twitter_url: 'https://twitter.com/YuxiangWei9'
+twitter_url: https://twitter.com/YuxiangWei9
+google_scholar_url: https://scholar.google.com/citations?user=Clrvw6kAAAAJ&hl=en&oi=ao
 bibliography: ./static/bib.bib
 nocite: |
   @*
