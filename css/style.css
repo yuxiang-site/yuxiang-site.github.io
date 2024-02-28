@@ -244,8 +244,15 @@ div.csl-indent {
   height: 180px;
   border: 1px solid #fff;
   /* background: url(img/tiger.png) no-repeat; */
-  box-shadow: 5px 5px 5px #ccc;
-  border-radius: 25px;
+  box-shadow: 3px 3px 3px #666;
+  border-radius: 35px;
+}
+
+/* If dark, no shadow */
+@media (prefers-color-scheme: dark) {
+  #avatar {
+    box-shadow: none;
+  }
 }
 
 footer {
