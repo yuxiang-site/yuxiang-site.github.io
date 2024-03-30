@@ -55,6 +55,7 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 
 ## Invited Talks
 
+- Mar 2024, [Meta FAIR (Code Llama)](https://ai.meta.com/research/): Discussions on Magicoder and Its Extensions
 - Jan 2024, [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/): Magicoder: Source Code Is All You Need [[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)].
 - Oct 2023, Kwai Inc.: Fusing Large Language Models with Completion Engines for Code Generation.
 - Apr 2023, Uber Program Analysis Group: Combining Large Language Models with Symbolic Methods.
