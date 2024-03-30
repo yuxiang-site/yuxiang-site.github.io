@@ -45,8 +45,12 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 
 ## Services
 
-- Organizing Committee: [LLM4Code Workshop 2024](https://llm4code.github.io), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
-- Reviewer: [SynData4CV@CVPR'24](https://syndata4cv.github.io/index.html), [R2-FM@ICLR'24](https://iclr-r2fm.github.io).
+- Organizing Committee: [LLM4Code@ICSE'24](https://llm4code.github.io).
+- Reviewer:
+  [AI4CC@CVPR'24](https://ai4cc.net),
+  [GLSVLSI'24](https://www.glsvlsi.org),
+  [SynData4CV@CVPR'24](https://syndata4cv.github.io/index.html),
+  [R2-FM@ICLR'24](https://iclr-r2fm.github.io).
 - Artifact Evaluation Committee: [ISSTA'24](https://2024.issta.org/committee/issta-2024-artifact-evaluation-artifact-evaluation-committee), [PLDI'24](https://pldi24.sigplan.org/committee/pldi-2024-pldi-research-artifacts-artifact-evaluation-committee), [CCS'23](https://www.sigsac.org/ccs/CCS2023/call-for-artifacts.html).
 
 ## Invited Talks
