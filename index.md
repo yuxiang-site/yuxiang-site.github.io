@@ -22,7 +22,7 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 
 ## News
 
-- May 2024: [🎩Magicoder](https://github.com/ise-uiuc/magicoder) (**1.9k** stars ⭐️ on GitHub) gets accepted to [ICML'24](https://icml.cc/Conferences/2024)!
+- May 2024: [🎩Magicoder](https://github.com/ise-uiuc/magicoder) (**1.9k** stars ⭐️ on GitHub) got accepted to [ICML'24](https://icml.cc/Conferences/2024)!
 - May 2024: We released [StarCoder2-Instruct](https://huggingface.co/blog/sc2-instruct): the first fully transparent and permissive self-alignment for code generation.
 - Feb 2024: [StarCoder2 released](https://huggingface.co/blog/starcoder2). So proud to be part of the team!
 
