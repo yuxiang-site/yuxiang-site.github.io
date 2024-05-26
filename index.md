@@ -49,7 +49,7 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 
 - Organizing Committee: [LLM4Code@ICSE'24](https://llm4code.github.io).
 - Reviewer:
-  <!-- [AI4CC@CVPR'24](https://ai4cc.net), -->
+  [Neurips'24](https://neurips.cc/Conferences/2024),
   [MIPR'24](https://sites.google.com/view/mipr2024),
   [GLSVLSI'24](https://www.glsvlsi.org),
   [SynData4CV@CVPR'24](https://syndata4cv.github.io/index.html),
