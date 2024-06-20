@@ -43,7 +43,7 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 ## Awards and Honors
 
 
-- Jun 2024, [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/)
+- Jun 2024, [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/) ($5000)
 - Oct 2023, NSF Student Travel Award ($1800)
 - Oct 2023, ACM SIGSOFT CAPS Award ($400)
 
