@@ -40,7 +40,7 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 ::: {#refs}
 :::
 
-## Awards and Honers
+## Awards and Honors
 
 
 - Jun 2024, [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/)
