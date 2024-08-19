@@ -2,7 +2,7 @@
 
 html {
   line-height: 1.5;
-  font-family: 'Gelasio', serif;
+  font-family: 'Lora', serif;
   font-size: 20px;
   color: 1a1a1a;
   background-color: #fdfdfd;
@@ -70,6 +70,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: 'Mukta', sans-serif;
   margin-top: 1.4em;
 }
 

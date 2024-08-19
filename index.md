@@ -1,7 +1,7 @@
 ---
 title: Yuxiang's Personal Website
 name: Yuxiang Wei
-date: 05/02/2024
+date: 08/18/2024
 photo_path: ./static/images/yuxiang.jpg
 email_school: ywei40@illinois.edu
 email_personal: yuxiang630.wei@gmail.com
@@ -17,8 +17,10 @@ nocite: |
 
 ## About
 
-I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](https://lingming.cs.illinois.edu). I work on *large language models for code*. You can find a link to my CV [here](./static/YuxiangWei-CV.pdf).
+I am a 3rd year CS PhD student at UIUC advised by [Professor Lingming Zhang](https://lingming.cs.illinois.edu). I work on **building code intelligence through large language models**.
 
+
+Notably, I lead the development of **[Magicoder](https://github.com/ise-uiuc/magicoder)** and **[StarCoder2-Instruct](https://huggingface.co/blog/sc2-instruct)**, projects that have garnered **over 405k downloads and 2.1k GitHub stars**. The core techniques and datasets from these projects have been **adopted by leading industry language models**, including **Meta Llama 3.1**, **Google CodeGemma**, and **IBM Granite code models**.
 
 ## News
 
@@ -26,14 +28,6 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 - May 2024: We released [StarCoder2-Instruct](https://huggingface.co/blog/sc2-instruct): the first fully transparent and permissive self-alignment for code generation.
 - Feb 2024: [StarCoder2 released](https://huggingface.co/blog/starcoder2). So proud to be part of the team!
 
-<!--
-- Feb 2024: I'm joining [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/) team this summer as a research intern!
-- Dec 2023: Check out our new preprint [🎩 Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120) [[Repo](https://github.com/ise-uiuc/magicoder)][[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)]. **🎩Magicoder got 1700+ stars ⭐️ on GitHub!!**
-- Jul 2023: Paper "Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair" is accepted by [FSE'23](https://2023.esec-fse.org)! [[Repo](https://github.com/ise-uiuc/Repilot)] [[Postprint](https://arxiv.org/abs/2309.00608)] [[Slides](./static/documents/Repilot-Talk.pdf)]. **Repilot got 100+ stars ⭐️!!**
-- Dec 2022: One paper on program repair using LLMs accepted by [ICSE'23](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview)!
-- Feb 2022: I feel excited to join UIUC's iSE group!!
-- Dec 2021: Our paper on fuzzing tensor compilers is accepted by [OOPSLA'22](https://2022.splashcon.org/track/splash-2022-oopsla)! 
--->
 
 ## Publications
 
@@ -51,6 +45,7 @@ I am a 2nd year CS PhD student at UIUC advised by [Professor Lingming Zhang](htt
 
 - Organizing Committee: [LLM4Code@ICSE'24](https://llm4code.github.io).
 - Reviewer:
+  [TSE](https://www.computer.org/csdl/journal/ts),
   [NeurIPS'24](https://neurips.cc/Conferences/2024),
   [MIPR'24](https://sites.google.com/view/mipr2024),
   [GLSVLSI'24](https://www.glsvlsi.org),
