@@ -177,6 +177,15 @@
       <text macro="recipient-note"/>
     </group>
   </macro>
+
+  <macro name="confabbrv">
+    <choose>
+      <if variable="note">
+        <text prefix="[" variable="note" suffix="]"/>
+      </if>
+    </choose>
+  </macro>
+
   <macro name="contributors">
     <group delimiter=". ">
       <names variable="author">
@@ -294,7 +303,7 @@
         <text variable="title"/>
       </else-if>
       <else>
-        <text variable="title" text-case="title" quotes="true"/>
+        <text variable="title" text-case="title" quotes="false"/>
       </else>
     </choose>
   </macro>
@@ -1408,6 +1417,7 @@
       <key variable="genre"/>
       <key variable="issued"/>
     </sort> -->
+
     <layout suffix=".">
       <group delimiter=". ">
         <group delimiter=": ">
@@ -1417,10 +1427,13 @@
                 <group delimiter=" ">
                   <group delimiter=", ">
                     <group delimiter=". ">
-                      <group delimiter=". ">
-                        <text macro="contributors"/>
-                        <text macro="title"/>
-                        <text macro="issue-map-graphic"/>
+                      <group delimiter="">
+                        <group display="block">
+                          <text macro="confabbrv" font-weight="bold" suffix=" "/>
+                          <text macro="title" font-style="italic"/>
+                        </group>
+                        <text macro="contributors" prefix="&#10;"/>
+                        <text macro="issue-map-graphic" prefix="&#10;"/>
                       </group>
                       <text macro="description"/>
                       <text macro="secondary-contributors"/>
