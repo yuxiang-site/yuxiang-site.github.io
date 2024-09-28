@@ -24,7 +24,7 @@ Notably, I lead the development of **[Magicoder](https://github.com/ise-uiuc/mag
 
 ## News
 
-- Sep 2025: [SelfCodeAlign](https://github.com/bigcode-project/starcoder2-self-align) got accepted to [NeurIPS'24](https://neurips.cc/Conferences/2024)!
+- Sep 2024: [SelfCodeAlign](https://github.com/bigcode-project/starcoder2-self-align) got accepted to [NeurIPS'24](https://neurips.cc/Conferences/2024)!
 - May 2024: [🎩Magicoder](https://github.com/ise-uiuc/magicoder) (**1.9k** stars ⭐️ on GitHub) got accepted to [ICML'24](https://icml.cc/Conferences/2024)!
 - May 2024: We released [StarCoder2-Instruct](https://huggingface.co/blog/sc2-instruct): the first fully transparent and permissive self-alignment for code generation.
 - Feb 2024: [StarCoder2 released](https://huggingface.co/blog/starcoder2). So proud to be part of the team!
