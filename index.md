@@ -38,8 +38,9 @@ Notably, I lead the development of **[Magicoder](https://github.com/ise-uiuc/mag
 ## Awards and Honors
 
 
-- Jun 2024, [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/) ($5000)
-- Oct 2023, NSF Student Travel Award ($1800)
+- Sep 2024, Selected Proposal, Amazon Trusted AI Challenge ($250,000)
+- Jun 2024, [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/) ($5,000)
+- Oct 2023, NSF Student Travel Award ($1,800)
 - Oct 2023, ACM SIGSOFT CAPS Award ($400)
 
 ## Services
@@ -56,6 +57,7 @@ Notably, I lead the development of **[Magicoder](https://github.com/ise-uiuc/mag
 
 ## Invited Talks
 
+- Sep 2024, [CS6501](https://wenxiwang.github.io/CS6501-016.html) @ University of Virginia: Guest lecture on language models.
 - Mar 2024, [Meta FAIR (Code Llama)](https://ai.meta.com/research/): Discussions on Magicoder and Its Extensions
 - Jan 2024, [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/): Magicoder: Source Code Is All You Need [[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)].
 - Oct 2023, Kwai Inc.: Fusing Large Language Models with Completion Engines for Code Generation.
