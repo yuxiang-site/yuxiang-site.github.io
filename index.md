@@ -45,8 +45,11 @@ Notably, I lead the development of **[Magicoder](https://github.com/ise-uiuc/mag
 
 ## Services
 
-- Organizing Committee: [LLM4Code@ICSE'24](https://llm4code.github.io).
+- Organizing Committee:
+  [LLM4Code'25](https://llm4code.github.io),
+  [LLM4Code'24](https://llm4code.github.io/2024).
 - Reviewer:
+  [ICLR'25](https://iclr.cc/Conferences/2025),
   [TSE](https://www.computer.org/csdl/journal/ts),
   [NeurIPS'24](https://neurips.cc/Conferences/2024),
   [MIPR'24](https://sites.google.com/view/mipr2024),
