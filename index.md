@@ -21,7 +21,7 @@ I am a PhD candidate at UIUC CS, advised by [Lingming Zhang](https://lingming.cs
 
 I work on **training LLMs for code and software**, with experience and published results in pretraining, midtraining, and posttraining via synthetic data and reinforcement learning.
 
-**Researh impact:** I lead [Magicoder](https://github.com/ise-uiuc/magicoder) (ICML'24) and [SelfCodeAlign](https://github.com/bigcode-project/selfcodealign) (NeurIPS'24), projects with **400k+ downloads and 2.2k+ GitHub stars**. They have been adopted by leading industry language models, including **Meta Llama 3**, **Google CodeGemma**, and **IBM Granite code models**.
+**Research impact:** I lead [Magicoder](https://github.com/ise-uiuc/magicoder) (ICML'24) and [SelfCodeAlign](https://github.com/bigcode-project/selfcodealign) (NeurIPS'24), projects with **400k+ downloads and 2.2k+ GitHub stars**. They have been adopted by leading industry language models, including **Meta Llama 3**, **Google CodeGemma**, and **IBM Granite code models**.
 
 ## News
 
