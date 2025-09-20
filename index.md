@@ -23,13 +23,13 @@ I work on **training LLMs for code and software**, with experience and published
 
 **Research impact:** I lead [Magicoder](https://github.com/ise-uiuc/magicoder) (ICML'24) and [SelfCodeAlign](https://github.com/bigcode-project/selfcodealign) (NeurIPS'24), projects with **400k+ downloads and 2.2k+ GitHub stars**. They have been adopted by leading industry language models, including **Meta Llama 3**, **Google CodeGemma**, and **IBM Granite code models**.
 
+<!--
 ## News
 
 - Feb 2025: We released [SWE-RL](https://github.com/facebookresearch/swe-rl), the first approach to scale reinforcement learning based LLM reasoning for real-world software engineering.
 - Sep 2024: [SelfCodeAlign](https://github.com/bigcode-project/starcoder2-self-align) got accepted to [NeurIPS'24](https://neurips.cc/Conferences/2024)!
 - May 2024: [🎩Magicoder](https://github.com/ise-uiuc/magicoder) (**2k** ⭐️ on GitHub) got accepted to [ICML'24](https://icml.cc/Conferences/2024)!
-
-<!-- - May 2024: We released [StarCoder2-Instruct](https://huggingface.co/blog/sc2-instruct): the first fully transparent and permissive self-alignment for code generation.
+ - May 2024: We released [StarCoder2-Instruct](https://huggingface.co/blog/sc2-instruct): the first fully transparent and permissive self-alignment for code generation.
 - Feb 2024: [StarCoder2 released](https://huggingface.co/blog/starcoder2). So proud to be part of the team! -->
 
 
