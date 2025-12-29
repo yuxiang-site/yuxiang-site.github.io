@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" $if(dir)$ dir="$dir$" $endif$>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="This is $name$'s personal website">
+  <meta name="google-site-verification" content="7Ms6t6UeqmGKfDnqyKKR5W8PmQaGUQOo7A-G_DN5Vd0" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  $for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+  $endfor$
+  $if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$" />
+  $endif$
+  $if(keywords)$
+  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
+  $endif$
+  $if(description-meta)$
+  <meta name="description" content="$description-meta$" />
+  $endif$
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <link rel="stylesheet" href="css/style.css" />
+  $if(math)$
+  $math$
+  $endif$
+  $for(header-includes)$
+  $header-includes$
+  $endfor$
+</head>
+
+<body>
+  <!-- <h1>$name$</h1> -->
+  <div class='author-info'>
+    <img id="avatar" src='$photo_path$'>
+    <div class='author-details'>
+      <div id='yuxiang'>$name$</div>
+      <ul class="author-contact">
+        <li>Email: <a href="mailto:$email_school$">$email_school$</a></li>
+        <!-- <li>Email (personal): <a href="mailto:$email_personal$">$email_personal$</a></li> -->
+        <li>GitHub: <a href="$github_url$">$github_id$</a></li>
+        <li>𝕏: <a href="$twitter_url$">$twitter_id$</a></li>
+        <li>
+          <a href="$google_scholar_url$">Google Scholar</a>
+          | <a href="$linkedin_url$">LinkedIn</a>
+          <!-- | -->
+          <!-- <a href='static/YuxiangWei-CV.pdf'>CV</a> -->
+        </li>
+          <!-- <a href='/assets/YuxiangWei-CV.pdf'>CV</a> -->
+          <!-- <a href='www.bing.com'>Twitter</a> -->
+        </li>
+      </ul>
+      <!-- <div></div> -->
+    </div>
+  </div>
+
+  $body$
+  $for(include-after)$
+  $include-after$
+  $endfor$
+  <footer>© Copyright 2025, $name$.</footer>
+</body>
+
+</html>
