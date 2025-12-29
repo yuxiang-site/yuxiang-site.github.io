@@ -415,11 +415,6 @@
   <macro name="container-title-note">
     <group delimiter=" ">
       <choose>
-        <if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
-          <text term="in"/>
-        </if>
-      </choose>
-      <choose>
         <if type="webpage">
           <text variable="container-title"/>
         </if>
@@ -434,11 +429,6 @@
   </macro>
   <macro name="container-title">
     <group delimiter=" ">
-      <choose>
-        <if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
-          <text term="in" text-case="capitalize-first"/>
-        </if>
-      </choose>
       <choose>
         <if type="webpage">
           <text variable="container-title"/>
