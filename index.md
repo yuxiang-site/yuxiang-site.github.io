@@ -77,7 +77,7 @@ I train code agents.
 
 ## Invited Talks
 
-- Oct 2025, [CSE 598-011](https://web.eecs.umich.edu/~xwangsd/courses/f25/schedule.html) @ Toward Autonomous Software Engineering with LLMs.
+- Oct 2025, [CSE 598-011](https://web.eecs.umich.edu/~xwangsd/courses/f25/schedule.html) @ University of Michigan: Toward Autonomous Software Engineering with LLMs.
 - Sep 2024, [CS6501](https://wenxiwang.github.io/CS6501-016.html) @ University of Virginia: Guest lecture on language models.
 - Mar 2024, [Meta FAIR (Code Llama)](https://ai.meta.com/research/): Discussions on Magicoder and Its Extensions
 - Jan 2024, [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/): Magicoder: Source Code Is All You Need [[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)].
