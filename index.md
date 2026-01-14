@@ -77,8 +77,10 @@ I train code agents.
 
 ## Invited Talks
 
-- Oct 2025, [CSE 598-011](https://web.eecs.umich.edu/~xwangsd/courses/f25/schedule.html) @ University of Michigan: Toward Autonomous Software Engineering with LLMs.
-- Sep 2024, [CS6501](https://wenxiwang.github.io/CS6501-016.html) @ University of Virginia: Guest lecture on language models.
+- Jan 2026, Stanford University (Research Group, [Ludwig Schmidt](https://people.csail.mit.edu/ludwigs/)): Toward Training Superintelligent Software Agents through Self-Play SWE-RL
+- Oct 2025, University of Michigan ([CSE 598-011](https://web.eecs.umich.edu/~xwangsd/courses/f25/schedule.html)): Toward Autonomous Software Engineering with LLMs
+- North Carolina State University ([GAI4SE](https://github.com/gai4se/GAI4SE-Course)): Large Language Models for Autonomous Software Engineering
+- Sep 2024, University of Virginia （[CS6501](https://wenxiwang.github.io/CS6501-016.html): Guest lecture on language models
 - Mar 2024, [Meta FAIR (Code Llama)](https://ai.meta.com/research/): Discussions on Magicoder and Its Extensions
-- Jan 2024, [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/): Magicoder: Source Code Is All You Need [[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)].
-- Apr 2023, [Uber Program Analysis Group](https://www.uber.com/fr/en/about/science/): Combining LLMs with Symbolic Methods.
+- Jan 2024, [Snowflake GenAI (Copilot)](https://www.snowflake.com/blog/use-ai-snowflake-cortex/): Magicoder: Source Code Is All You Need [[Slides](./static/documents/Magicoder-Talk-Snowflake.pdf)]
+- Apr 2023, [Uber Program Analysis Group](https://www.uber.com/fr/en/about/science/): Combining LLMs with Symbolic Methods
