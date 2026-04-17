@@ -3,7 +3,11 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="This is $name$'s personal website">
+  $if(description)$
+  <meta name="description" content="$description$" />
+  $else$
+  <meta name="description" content="$name$'s personal academic website" />
+  $endif$
   <meta name="google-site-verification" content="7Ms6t6UeqmGKfDnqyKKR5W8PmQaGUQOo7A-G_DN5Vd0" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
@@ -16,11 +20,9 @@
   $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
   $endif$
-  $if(description-meta)$
-  <meta name="description" content="$description-meta$" />
-  $endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" />
   $if(math)$
   $math$
   $endif$
@@ -30,27 +32,50 @@
 </head>
 
 <body>
-  <!-- <h1>$name$</h1> -->
   <div class='author-info'>
-    <img id="avatar" src='$photo_path$'>
+    <img id="avatar" src='$photo_path$' alt="Portrait of $name$" width="327" height="395">
     <div class='author-details'>
-      <div id='yuxiang'>$name$</div>
-      <ul class="author-contact">
-        <li>Email: <a href="mailto:$email_school$">$email_school$</a></li>
-        <!-- <li>Email (personal): <a href="mailto:$email_personal$">$email_personal$</a></li> -->
-        <li>GitHub: <a href="$github_url$">$github_id$</a></li>
-        <li>𝕏: <a href="$twitter_url$">$twitter_id$</a></li>
+      <h1 id='yuxiang'>$name$</h1>
+      <ul class="author-contact" aria-label="Contact and profile links">
         <li>
-          <a href="$google_scholar_url$">Google Scholar</a>
-          | <a href="$linkedin_url$">LinkedIn</a>
-          <!-- | -->
-          <!-- <a href='static/YuxiangWei-CV.pdf'>CV</a> -->
+          <a class="contact-link" href="mailto:$email_school$" aria-label="Email $email_school$" title="$email_school$">
+            <svg class="contact-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M4 6h16v12H4z"></path>
+              <path d="m4 7 8 6 8-6"></path>
+            </svg>
+            <span class="visually-hidden">$email_school$</span>
+          </a>
         </li>
-          <!-- <a href='/assets/YuxiangWei-CV.pdf'>CV</a> -->
-          <!-- <a href='www.bing.com'>Twitter</a> -->
+        <li>
+          <a class="contact-link" href="$github_url$" rel="me" aria-label="GitHub" title="GitHub">
+            <svg class="contact-icon contact-icon-fill" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 .5C5.65.5.5 5.65.5 12c0 5.09 3.29 9.39 7.86 10.91.58.1.79-.25.79-.56v-2.14c-3.2.7-3.87-1.36-3.87-1.36-.52-1.32-1.27-1.67-1.27-1.67-1.04-.71.08-.69.08-.69 1.15.08 1.75 1.18 1.75 1.18 1.02 1.74 2.67 1.24 3.32.95.1-.74.4-1.24.72-1.53-2.55-.29-5.23-1.28-5.23-5.68 0-1.25.45-2.28 1.18-3.08-.12-.29-.51-1.46.11-3.04 0 0 .96-.31 3.16 1.18.92-.26 1.9-.38 2.88-.39.98.01 1.96.13 2.88.39 2.2-1.49 3.16-1.18 3.16-1.18.62 1.58.23 2.75.11 3.04.73.8 1.18 1.83 1.18 3.08 0 4.41-2.69 5.39-5.25 5.67.41.35.77 1.04.77 2.1v3.17c0 .31.21.67.79.56A11.51 11.51 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"></path>
+            </svg>
+            <span class="visually-hidden">GitHub</span>
+          </a>
+        </li>
+        <li>
+          <a class="contact-link" href="$twitter_url$" rel="me" aria-label="X" title="X">
+            <span class="contact-letter" aria-hidden="true">𝕏</span>
+            <span class="visually-hidden">X</span>
+          </a>
+        </li>
+        <li>
+          <a class="contact-link" href="$google_scholar_url$" aria-label="Google Scholar" title="Google Scholar">
+            <svg class="contact-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M3 10 12 5l9 5-9 5z"></path>
+              <path d="M7 12v5c2.5 1.5 7.5 1.5 10 0v-5"></path>
+            </svg>
+            <span class="visually-hidden">Google Scholar</span>
+          </a>
+        </li>
+        <li>
+          <a class="contact-link" href="$linkedin_url$" rel="me" aria-label="LinkedIn" title="LinkedIn">
+            <span class="contact-letter" aria-hidden="true">in</span>
+            <span class="visually-hidden">LinkedIn</span>
+          </a>
         </li>
       </ul>
-      <!-- <div></div> -->
     </div>
   </div>
 
