@@ -1,0 +1,62 @@
+# Ref: https://github.com/pandoc/pandoc-action-example/issues/21
+
+# Simple workflow for deploying static content to GitHub Pages
+name: Deployment to Pages using Pandoc and Actions
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Install Pandoc
+        run: |
+          wget https://github.com/jgm/pandoc/releases/download/2.19/pandoc-2.19-1-amd64.deb
+          sudo dpkg -i pandoc-2.19-1-amd64.deb
+      - name: Build website
+        run: make
+      # Build the website using pandoc
+      # - name: Build the index page
+      #   uses: docker://pandoc/core:2.19
+      #   with:
+      #     args: >-
+      #       --template=templates/index.html
+      #       --citeproc
+      #       --lua-filter=bold_me_in_bib.lua
+      #       --output=index.html
+      #       --csl=citation_order.csl
+      #       index.md
+      # # A temporary solution
+      # - name: Build the reading list
+      #   uses: docker://pandoc/core:2.19
+      #   with:
+      #     args: >-
+      #       --template=templates/note.html
+      #       --output=readings.html
+      #       notes/readings.md
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: "site"
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - run: echo ${{ steps.deployment.outputs.page_url }}
